@@ -7,15 +7,13 @@ This is a solution to the [Huddle landing page with single introductory section 
 ![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/74724103/137825888-919904f2-7055-43d4-8863-ec9885bcd4bc.png)
 ### Links
 
-- Solution URL: [https://github.com/CarlosERM/ping-comming-soon-page.git](https://github.com/CarlosERM/ping-comming-soon-page.git)
-- Live Site URL: [https://carloserm.github.io/6-FrontEndMentor/](https://carloserm.github.io/6-FrontEndMentor/)
+- Solution URL: [https://github.com/CarlosERM/Huddle-Landing.git](https://github.com/CarlosERM/Huddle-Landing.git)
+- Live Site URL: [https://carloserm.github.io/Huddle-Landing/](https://carloserm.github.io/Huddle-Landing/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
